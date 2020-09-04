@@ -1,0 +1,22 @@
+{ "usuario_id": "98",
+    "usuario_nome": "Mike Forrest",
+    "usuario_cpf": "null",
+    "lista_produto": {
+    "1": {
+    "curso_id": "27",
+    "curso_nome": "JavaScript",
+    "data_inicio": "13/06/2020"
+    },
+    "2": {
+    "curso_id": "42",
+    "curso_nome": "PHP",
+    "data_inicio": "27/10/2020"
+    },
+    "3": {
+    "curso_id": "6",
+    "curso_nome": "SQL",
+    "data_inicio": "14/11/2020"
+    }
+    }
+    }
+    
